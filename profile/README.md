@@ -74,7 +74,3 @@ All open-source resources, guides, and project documentation under **PrathibhaSp
 
 🔥 *PrathibhaSpace – Nurturing Ideas, Igniting Talents*
 Together, let’s make our community a hub of creativity and innovation!
-
----
-
-Would you like me to tailor this README for **GitHub (Markdown optimized)** with proper formatting and emojis (ready to upload)?
